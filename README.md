@@ -1,4 +1,4 @@
-# SFTPGo                                   new test  3 4 5 6 7 8 9 10
+# SFTPGo                                   new test  3 4 5 6 7 8 9 10 11
 
 [![CI Status](https://github.com/drakkan/sftpgo/workflows/CI/badge.svg?branch=main&event=push)](https://github.com/drakkan/sftpgo/workflows/CI/badge.svg?branch=main&event=push)
 [![Code Coverage](https://codecov.io/gh/drakkan/sftpgo/branch/main/graph/badge.svg)](https://codecov.io/gh/drakkan/sftpgo/branch/main)
